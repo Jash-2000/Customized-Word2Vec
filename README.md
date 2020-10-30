@@ -1,2 +1,27 @@
 # Customized-Word2Vec
 This repository contains additional features, extended to the traditional Word2Vec library, launched in 2013
+
+Directly clone the repository and start using it. The details of how the files are named and strored is given below:-
+
+-> The model made using 3 options - Skipgram model, Common Bag of Words, Negative Sampling.
+
+-> You can change the following model parameters:
+* Window Size
+* Vector Size
+* Learning Rate
+* Sub-sampling
+* number of epochs you want to train for.
+
+-> Optimizer used is SGD.
+
+-> The folder also contains a pickle file containing the dictionary:
+   key - Word (string format)
+   values - onehot encoding (numpy array) 
+
+-> Naming Convention of the weight1 files are :
+../Window_<window size>/<choice of model>/<learning rate>_<vector size>weight_numpy.npy
+
+These, weight vectors must be dot producted with the onehot vectors to get the actual embeddings in
+the format given : W'X { W - Weight ; X - Onehot Vector} 
+
+-> Training corpus is the numpy array containg the cleaned trainig words, from Reuters dataset.
