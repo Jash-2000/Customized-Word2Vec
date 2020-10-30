@@ -19,7 +19,8 @@ Directly clone the repository and start using it. The details of how the files a
    values - onehot encoding (numpy array) 
 
 -> Naming Convention of the weight1 files are :
-../Window_<window size>/<choice of model>/<learning rate>_<vector size>weight_numpy.npy
+
+../Window_{window size}/{choice of model}/{learning rate}_{vector size}weight_numpy.npy
 
 These, weight vectors must be dot producted with the onehot vectors to get the actual embeddings in
 the format given : W'X { W - Weight ; X - Onehot Vector} 
