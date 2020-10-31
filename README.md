@@ -31,5 +31,3 @@ Directly clone the repository and start using it. The details of how the files a
 
 These, weight vectors must be dot producted with the onehot vectors to get the actual embeddings in
 the format given : W'X { W - Weight ; X - Onehot Vector} 
-
--> Training corpus is the numpy array containg the cleaned trainig words, from Reuters dataset.
