@@ -1,4 +1,4 @@
-## This folder contains all the weight, training, testing and word_data files : ![https://drive.google.com/drive/folders/1NhOPmEniT9HVo4B9rHDrr8Hv-a4I8DRc?usp=sharing]
+## This folder contains all the weight, training, testing and word_data files : [https://drive.google.com/drive/folders/1NhOPmEniT9HVo4B9rHDrr8Hv-a4I8DRc?usp=sharing]
 I have not uploaded the data here due to very large size of the files.
 
 This file has the following example from Reuters Dataset :
