@@ -14,6 +14,13 @@ Directly clone the repository and start using it. The details of how the files a
 
 -> Optimizer used is SGD.
 
+-> Other that the main code ipynb, entire training corpus and testing corpus (numpy array) of reuters dataset <b>(ca be downloaded directly from here)</b>, I have included an example directory where I have applied my code base.
+
+---
+## The Example folder contains :
+
+-> The folder contains numpy array of training and testing datasets
+
 -> The folder also contains a pickle file containing the dictionary:
    key - Word (string format)
    values - onehot encoding (numpy array) 
