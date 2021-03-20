@@ -1,4 +1,7 @@
-## This folder contains all the weight, training, testing and word_data files : [https://drive.google.com/drive/folders/1NhOPmEniT9HVo4B9rHDrr8Hv-a4I8DRc?usp=sharing]
+## 
+
+This folder contains all the weight, training, testing and word_data files : **[Jash/NLP/Data](https://drive.google.com/drive/folders/1P9hugUIvvlCEM2DoDDMpR-JE7UM9K12W?usp=sharing)**
+
 I have not uploaded the data here due to very large size of the files.
 
 This file has the following example from Reuters Dataset :
