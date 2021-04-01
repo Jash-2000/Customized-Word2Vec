@@ -1,5 +1,6 @@
 # Customized-Word2Vec
-This repository contains additional features, extended to the traditional Word2Vec library, launched in 2013
+This repository contains additional features, extended to the traditional Word2Vec library, launched in 2013.
+This project was part of a larger project that involved sentimental analysis and sarcasm detection. The project details have been added in the repo-description section. 
 
 Directly clone the repository and start using it. The details of how the files are named and strored is given below:-
 
@@ -14,7 +15,9 @@ Directly clone the repository and start using it. The details of how the files a
 
 -> Optimizer used is SGD.
 
--> Other that the main code ipynb, entire training corpus and testing corpus (numpy array) of reuters dataset <b>(ca be downloaded directly from here)</b>, I have included an example directory where I have applied my code base.
+-> Other that the main code ipynb, entire training corpus and testing corpus (numpy array) of reuters dataset <b>(ca be downloaded directly from [here]())</b>, I have included an example directory where I have applied my code base.
+
+For more information, please refer to the project report uploaded.
 
 ---
 ## The Example folder contains :
